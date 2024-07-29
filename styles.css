@@ -6,8 +6,7 @@ body {
 /* Navbar */
 .navbar {
     margin-bottom: 0;
-    margin-left: 100px;
-    margin-right: 70px;
+    
     display: flex;
 }
 
